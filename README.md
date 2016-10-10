@@ -1,5 +1,6 @@
 # PkgUpdate
-A repository for developing and discussing blog posts
+
+A repository for developing and discussing blog posts.
 
 ## Current Agenda
 
